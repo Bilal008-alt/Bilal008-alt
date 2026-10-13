@@ -72,6 +72,9 @@ Explore my repositories to see my latest work.
 <a href="https://github.com/Bilal008-alt">
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
+<a href="in/muhammad-bilal-haider-a7a412321">
+<img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="Linkedin" />
+</a>
 
 </div>
 
